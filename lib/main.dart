@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
-import 'package:foodieme/data/dummy_data.dart';
-import 'package:foodieme/screens/categories.dart';
-import 'package:foodieme/screens/meals.dart';
+//import 'package:foodieme/data/dummy_data.dart';
+//import 'package:foodieme/screens/categories.dart';
+//import 'package:foodieme/screens/meals.dart';
 import 'package:foodieme/screens/tabs.dart';
 
 import 'package:google_fonts/google_fonts.dart';
